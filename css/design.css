@@ -1,0 +1,36 @@
+ header, section {
+ 	margin: 1px;
+ 	border: thin lightgray solid;
+ 	padding: 5px;
+}
+ a{
+  text-decoration: none;	
+ }
+ h1{
+ 	color:white;
+ 	margin-left: 40px;
+ }
+ .blackbackground{
+	background-color: black;
+}
+header.blackbackground h2{
+	color: white;
+	margin-left: 40px;
+}
+ h2, h3, h4{
+	color: #8c1018;
+}
+time{
+	align-items:right;
+}
+/*
+.graybackground{
+	background-color: #f0f2f1;
+}
+.tanbackground{
+	background-color: #d4c0a7;
+}
+.purplebackground{
+
+	background-color: #b2a4a1;
+}
